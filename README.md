@@ -1,6 +1,6 @@
 # AndroidStudioWorkshop
 
-Creating an app that allows the user to manipulate an arraylist of Strings.
+Creating an app that allows the user to manipulate an ArrayList of Strings. The app is called "EditList".
 
 Slides to go with the workshop: https://docs.google.com/presentation/d/1NGqfpwxZQJMvs5byOZMf4nCO-pCqbjNDLe-TUATHeKk/edit#slide=id.p
 
