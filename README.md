@@ -8,3 +8,5 @@ Methods: add to the list, remove from the list with an index, clear list, pick r
 
 Created for Spring 2019 semester. (Improved from Fall 2018 semester)
 
+Also a course on kidOYO.
+
