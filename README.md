@@ -1,4 +1,4 @@
-# AndroidStudioWorkshop
+# android-studio-workshop
 
 Creating an app that allows the user to manipulate an ArrayList of Strings. The app is called "EditList".
 
